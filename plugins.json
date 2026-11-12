@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "updated": "2026-11-12T00:25:43.973Z",
+  "lunda": {
+    "c64012254257be0ba6900b944dc0f8121a474fbf7b11959d9e3cf2edc504c3a3": {
+      "a": true
+    }
+  },
+  "prima": {
+    "37a9a03649842f11a118c5de1dd95a7478b7f8fa35e110feea8ea009694d007e": {
+      "a": true
+    },
+    "48be854444522264211108275fa0b90067f92ed54a34aefcaf6b6b3caf310c7e": {
+      "a": true
+    }
+  },
+  "revela": {
+    "c32d3fbfbe3d31c304cf01d7952d065b86909b2b5f4b03a84990a3971861404b": {
+      "a": true
+    }
+  },
+  "revelaprima": {
+    "d4a6adcd58aa3709f2da592d15fec408eb4e077d0424537054b2f9b4b555063c": {
+      "a": true
+    }
+  }
+}
